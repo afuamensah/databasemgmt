@@ -5,6 +5,9 @@ For our final project, we had a list of requirements that were specified by our 
 #### specs.docx
 Describes what the professor required of me to do, separated into different sections.
 
+#### datafiles.docx
+The tables that I used to convert them into SQL.
+
 #### project.sql
 My work, tied into one SQL file. Each part is sectioned off by number.
 
