@@ -2,10 +2,10 @@
 
 For our final project, we had a list of requirements that were specified by our professor and we were to fulfill those requirements to the best of our abilities. This final project was completely done using MySQL. 
 
-#### specs.docx
+#### specs.pdf
 Describes what the professor required of me to do, separated into different sections.
 
-#### datafiles.docx
+#### datafiles.pdf
 The tables that I used to convert them into SQL.
 
 #### project.sql
